@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/libdevops5000/AgileProject/_apis/build/status%2Flibdevops.WebApplication2?branchName=main)](https://dev.azure.com/libdevops5000/AgileProject/_build/latest?definitionId=3&branchName=main)
